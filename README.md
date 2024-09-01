@@ -36,6 +36,3 @@ Sentiment Analysis Insights:
 The Roberta model indicates a high percentage of positive sentiment, correlating with the high number of 5-star reviews.
 The Vader model shows a dominant neutral sentiment with very few positive reviews, suggesting it may be less sensitive to sentiment variations in this dataset.
 
-Acknowledgments
-Special thanks to the coach of this project, creators of Vader and Roberta models.
-Thanks to the open-source community for providing valuable libraries and tools used in this project.
